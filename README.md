@@ -1,6 +1,7 @@
 ### gmail
 ---
 .rb
+https://github.com/gmailgem/gmail
 
 .py
 https://github.com/charlierguo/gmail
